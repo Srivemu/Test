@@ -95,8 +95,8 @@
         <DesignItem xsi:type="SentimentAnalysis">
           <ID>56f6e95a-1a53-4a6b-a545-d1431c03350f</ID>
           <ParentID>b4bfe82b-9a79-4d47-8626-4b99c8448efd</ParentID>
-          <X>381.55999999999995</X>
-          <Y>119</Y>
+          <X>340.55999999999995</X>
+          <Y>200</Y>
           <Width>0</Width>
           <Height>0</Height>
           <Order>5002</Order>
@@ -497,8 +497,8 @@
         <DesignItem xsi:type="AutxVariableContainer">
           <ID>f2824ad7-1982-47e5-a9e3-c32ceabb1371</ID>
           <ParentID>b4bfe82b-9a79-4d47-8626-4b99c8448efd</ParentID>
-          <X>84</X>
-          <Y>243</Y>
+          <X>98</X>
+          <Y>229</Y>
           <Width>0</Width>
           <Height>0</Height>
           <Order>5005</Order>
@@ -604,8 +604,8 @@
         <DesignItem xsi:type="Switch">
           <ID>723bbe36-6610-4cad-9146-b046450c8cf7</ID>
           <ParentID>b4bfe82b-9a79-4d47-8626-4b99c8448efd</ParentID>
-          <X>633</X>
-          <Y>201</Y>
+          <X>663</X>
+          <Y>181</Y>
           <Width>0</Width>
           <Height>0</Height>
           <Order>5008</Order>
