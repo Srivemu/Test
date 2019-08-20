@@ -27,8 +27,8 @@
         <DesignItem xsi:type="EntryPoint">
           <ID>f24e3394-c685-409e-85f3-c69cf60bd4a2</ID>
           <ParentID>b4bfe82b-9a79-4d47-8626-4b99c8448efd</ParentID>
-          <X>26</X>
-          <Y>32</Y>
+          <X>35</X>
+          <Y>63</Y>
           <Width>0</Width>
           <Height>0</Height>
           <Order>5000</Order>
@@ -95,8 +95,8 @@
         <DesignItem xsi:type="SentimentAnalysis">
           <ID>56f6e95a-1a53-4a6b-a545-d1431c03350f</ID>
           <ParentID>b4bfe82b-9a79-4d47-8626-4b99c8448efd</ParentID>
-          <X>339.72666666666657</X>
-          <Y>200</Y>
+          <X>351.72666666666657</X>
+          <Y>232</Y>
           <Width>0</Width>
           <Height>0</Height>
           <Order>5002</Order>
@@ -300,8 +300,8 @@
         <DesignItem xsi:type="AutxMethod">
           <ID>dafe6d07-3684-4fff-866c-b946f19b6308</ID>
           <ParentID>b4bfe82b-9a79-4d47-8626-4b99c8448efd</ParentID>
-          <X>826</X>
-          <Y>39</Y>
+          <X>871</X>
+          <Y>40</Y>
           <Width>0</Width>
           <Height>0</Height>
           <Order>5003</Order>
@@ -385,12 +385,6 @@
               <AllowOverridePopup>true</AllowOverridePopup>
               <MappedVariable>
                 <ID>4abcfe4e-d9a9-4d8f-876a-b5846e9f6d2d</ID>
-                <ObjectID>74a3c580-2717-4379-abb2-87fae18e88b0</ObjectID>
-                <ObjectRootParentID />
-                <ObjectComponentID />
-                <ObjectDocumentID />
-                <ObjectProcessID>6f6a2d82-94dc-4ce2-8404-2217c6987659</ObjectProcessID>
-                <IsGlobal>true</IsGlobal>
                 <DataIn>
                   <ID>1dd5cc81-929e-4f14-a6fd-b9bea6687ab7</ID>
                   <Name>IN</Name>
@@ -412,6 +406,7 @@
                   <ValueSourceType>Connection</ValueSourceType>
                   <AllowOverridePopup>true</AllowOverridePopup>
                 </DataIn>
+                <IsGlobal>true</IsGlobal>
                 <DataOut>
                   <ID>c2708a17-c286-46b3-9fb0-c108acc0c1dd</ID>
                   <Name>OUT</Name>
@@ -433,6 +428,11 @@
                   <ValueSourceType>Connection</ValueSourceType>
                   <AllowOverridePopup>true</AllowOverridePopup>
                 </DataOut>
+                <ObjectID>74a3c580-2717-4379-abb2-87fae18e88b0</ObjectID>
+                <ObjectRootParentID />
+                <ObjectComponentID />
+                <ObjectDocumentID />
+                <ObjectProcessID>6f6a2d82-94dc-4ce2-8404-2217c6987659</ObjectProcessID>
               </MappedVariable>
             </AutxDataInPort>
             <AutxDataInPort>
@@ -497,8 +497,8 @@
         <DesignItem xsi:type="AutxVariableContainer">
           <ID>f2824ad7-1982-47e5-a9e3-c32ceabb1371</ID>
           <ParentID>b4bfe82b-9a79-4d47-8626-4b99c8448efd</ParentID>
-          <X>98</X>
-          <Y>229</Y>
+          <X>94</X>
+          <Y>232</Y>
           <Width>0</Width>
           <Height>0</Height>
           <Order>5005</Order>
@@ -534,12 +534,6 @@
           <Items>
             <AutxObjectReference>
               <ID>286baed9-e2f1-4752-b432-21a2c12e2e46</ID>
-              <ObjectID>74a3c580-2717-4379-abb2-87fae18e88b0</ObjectID>
-              <ObjectRootParentID />
-              <ObjectComponentID />
-              <ObjectDocumentID />
-              <ObjectProcessID>6f6a2d82-94dc-4ce2-8404-2217c6987659</ObjectProcessID>
-              <IsGlobal>true</IsGlobal>
               <DataIn>
                 <ID>ccaf94bb-ea8c-42c3-94f0-926a75ae4cae</ID>
                 <Name>IN</Name>
@@ -561,6 +555,7 @@
                 <ValueSourceType>Connection</ValueSourceType>
                 <AllowOverridePopup>false</AllowOverridePopup>
               </DataIn>
+              <IsGlobal>true</IsGlobal>
               <DataOut>
                 <ID>5570d0f0-c01b-4e67-bc42-4eabdb072edb</ID>
                 <Name>OUT</Name>
@@ -582,6 +577,11 @@
                 <ValueSourceType>Connection</ValueSourceType>
                 <AllowOverridePopup>false</AllowOverridePopup>
               </DataOut>
+              <ObjectID>74a3c580-2717-4379-abb2-87fae18e88b0</ObjectID>
+              <ObjectRootParentID />
+              <ObjectComponentID />
+              <ObjectDocumentID />
+              <ObjectProcessID>6f6a2d82-94dc-4ce2-8404-2217c6987659</ObjectProcessID>
             </AutxObjectReference>
           </Items>
         </DesignItem>
@@ -604,8 +604,8 @@
         <DesignItem xsi:type="Switch">
           <ID>723bbe36-6610-4cad-9146-b046450c8cf7</ID>
           <ParentID>b4bfe82b-9a79-4d47-8626-4b99c8448efd</ParentID>
-          <X>663</X>
-          <Y>181</Y>
+          <X>657</X>
+          <Y>178</Y>
           <Width>0</Width>
           <Height>0</Height>
           <Order>5008</Order>
@@ -781,8 +781,8 @@
         <DesignItem xsi:type="AutxMethod">
           <ID>c8e50f8e-cc8b-4525-a0da-dd56d95d1cc1</ID>
           <ParentID>b4bfe82b-9a79-4d47-8626-4b99c8448efd</ParentID>
-          <X>856</X>
-          <Y>266</Y>
+          <X>873</X>
+          <Y>260</Y>
           <Width>0</Width>
           <Height>0</Height>
           <Order>5003</Order>
@@ -866,12 +866,6 @@
               <AllowOverridePopup>true</AllowOverridePopup>
               <MappedVariable>
                 <ID>4abcfe4e-d9a9-4d8f-876a-b5846e9f6d2d</ID>
-                <ObjectID>74a3c580-2717-4379-abb2-87fae18e88b0</ObjectID>
-                <ObjectRootParentID />
-                <ObjectComponentID />
-                <ObjectDocumentID />
-                <ObjectProcessID>6f6a2d82-94dc-4ce2-8404-2217c6987659</ObjectProcessID>
-                <IsGlobal>true</IsGlobal>
                 <DataIn>
                   <ID>1dd5cc81-929e-4f14-a6fd-b9bea6687ab7</ID>
                   <Name>IN</Name>
@@ -893,6 +887,7 @@
                   <ValueSourceType>Connection</ValueSourceType>
                   <AllowOverridePopup>true</AllowOverridePopup>
                 </DataIn>
+                <IsGlobal>true</IsGlobal>
                 <DataOut>
                   <ID>c2708a17-c286-46b3-9fb0-c108acc0c1dd</ID>
                   <Name>OUT</Name>
@@ -914,6 +909,11 @@
                   <ValueSourceType>Connection</ValueSourceType>
                   <AllowOverridePopup>true</AllowOverridePopup>
                 </DataOut>
+                <ObjectID>74a3c580-2717-4379-abb2-87fae18e88b0</ObjectID>
+                <ObjectRootParentID />
+                <ObjectComponentID />
+                <ObjectDocumentID />
+                <ObjectProcessID>6f6a2d82-94dc-4ce2-8404-2217c6987659</ObjectProcessID>
               </MappedVariable>
             </AutxDataInPort>
             <AutxDataInPort>
@@ -978,7 +978,7 @@
       </Items>
       <Name>Main</Name>
       <Variables />
-      <IsOpen>false</IsOpen>
+      <IsOpen>true</IsOpen>
       <OnErrorAction>Stop</OnErrorAction>
       <MaxRetries>1</MaxRetries>
       <RetryDelay>0</RetryDelay>
