@@ -95,7 +95,7 @@
         <DesignItem xsi:type="SentimentAnalysis">
           <ID>56f6e95a-1a53-4a6b-a545-d1431c03350f</ID>
           <ParentID>b4bfe82b-9a79-4d47-8626-4b99c8448efd</ParentID>
-          <X>340.55999999999995</X>
+          <X>339.72666666666657</X>
           <Y>200</Y>
           <Width>0</Width>
           <Height>0</Height>
@@ -1029,8 +1029,8 @@
         <DesignItem xsi:type="ExitPoint">
           <ID>7d343c45-bf8d-481e-9fc6-a9732f11d8ab</ID>
           <ParentID>3bbc2928-6488-4d47-86e0-57cea844aeb4</ParentID>
-          <X>350</X>
-          <Y>250</Y>
+          <X>657</X>
+          <Y>389</Y>
           <Width>0</Width>
           <Height>0</Height>
           <Order>5001</Order>
