@@ -27,8 +27,8 @@
         <DesignItem xsi:type="EntryPoint">
           <ID>f24e3394-c685-409e-85f3-c69cf60bd4a2</ID>
           <ParentID>b4bfe82b-9a79-4d47-8626-4b99c8448efd</ParentID>
-          <X>35</X>
-          <Y>63</Y>
+          <X>30</X>
+          <Y>81</Y>
           <Width>0</Width>
           <Height>0</Height>
           <Order>5000</Order>
