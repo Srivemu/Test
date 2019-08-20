@@ -978,7 +978,7 @@
       </Items>
       <Name>Main</Name>
       <Variables />
-      <IsOpen>true</IsOpen>
+      <IsOpen>false</IsOpen>
       <OnErrorAction>Stop</OnErrorAction>
       <MaxRetries>1</MaxRetries>
       <RetryDelay>0</RetryDelay>
