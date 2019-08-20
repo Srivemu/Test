@@ -1063,7 +1063,7 @@
       </Items>
       <Name>New Activity</Name>
       <Variables />
-      <IsOpen>false</IsOpen>
+      <IsOpen>true</IsOpen>
       <OnErrorAction>Stop</OnErrorAction>
       <MaxRetries>1</MaxRetries>
       <RetryDelay>0</RetryDelay>
